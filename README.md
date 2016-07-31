@@ -1,28 +1,12 @@
-== README
+# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project to make a Yelp clone using Ruby on Rails.
 
-Things you may want to cover:
+Gems
+  -
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Stack
+  - Ruby version: 2.2.3p173
+  - Rails version: 4.2.6
+  - Database: Postgresql
+  - Frontend: 
